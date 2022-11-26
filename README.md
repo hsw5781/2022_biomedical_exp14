@@ -11,6 +11,7 @@ pip install pandas pywavelets statistics wfdb
 wget -r -N -c -np https://physionet.org/files/mitdb/1.0.0/
 git clone https://github.com/hsw5781/2022_biomedical_exp14.git
 ```
+**Note:** Please check Raspberry Pi setting manual provided in [this page](https://www.notion.so/seungwoo-hong/Raspberry-Pi-ver-221117-4af98121fb94487a8fa9df09bc6f6b91)
 
 ## How to Run
 * FFT: `python fft_anaylsy.py`
